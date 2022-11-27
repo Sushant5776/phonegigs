@@ -37,7 +37,8 @@ Phonegigs, an e-commerce website for second hand phone market. User can login an
 ```json
 {
 	"name": "string",
-	"images": ["url1", "url2", "url3"],
+	"make": "string",
+	"image": "url",
 	"description": "string",
 	"price": "number"
 }

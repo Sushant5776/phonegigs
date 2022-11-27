@@ -1,0 +1,11 @@
+POST http://localhost:3000/api/addProduct
+Content-Type: application/json
+
+{
+  "name": "Galaxy S20 FE",
+	"make": "Samsung",
+	"image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY550_.jpg",
+	"description": "Samsung Galaxy's most advanced zoom ever will help you capture amazing things from far away. Galaxy S20's Hybrid Optic Zoom allows you to zoom up to x3 on anything that catches your eye with absolutely no loss of image quality. On top of that, you can enjoy Galaxy S20's Super Resolution Zoom, which allows you to carry on zooming all the way to x30*. So when you're at a the back of the crowd at a music festival, you can zoom to the front of the stage in no time.",
+	"price": 32999,
+	"quantity": 1
+}
