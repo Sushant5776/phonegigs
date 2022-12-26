@@ -9,3 +9,11 @@ Content-Type: application/json
 	"price": 32999,
 	"quantity": 1
 }
+
+###
+
+GET http://localhost:3000/api/getProduct?id=TX1rSsjamfejvS5X9GpS
+
+###
+
+GET http://localhost:3000/api/products
